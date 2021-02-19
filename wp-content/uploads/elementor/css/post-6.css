@@ -29,14 +29,14 @@
 .elementor-6 .elementor-element.elementor-element-10cd5ec .elementor-heading-title {font-size: 70px;font-weight: 300;line-height: 1.1em;letter-spacing: 10px;}
 .elementor-6 .elementor-element.elementor-element-e02870b .elementor-heading-title {font-size: 70px;font-weight: 300;line-height: 1.1em;letter-spacing: 10px;}
 .elementor-6 .elementor-element.elementor-element-65267db .elementor-heading-title {font-size: 70px;font-weight: 300;line-height: 1.1em;letter-spacing: 10px;}
-.elementor-6 .elementor-element.elementor-element-0c7fbd7 {margin-top: 0px;margin-bottom: 46px;padding: 0% 7% 0% 8%;}
+.elementor-6 .elementor-element.elementor-element-0c7fbd7 {margin-top: 0px;margin-bottom: 46px;padding: 0% 8% 0% 8%;}
 .elementor-bc-flex-widget .elementor-6 .elementor-element.elementor-element-bd5afcb.elementor-column .elementor-column-wrap {align-items: center;}
 .elementor-6 .elementor-element.elementor-element-bd5afcb.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-6 .elementor-element.elementor-element-bd5afcb.elementor-column > .elementor-column-wrap > .elementor-widget-wrap {justify-content: center;}
 .elementor-6 .elementor-element.elementor-element-bd5afcb > .elementor-element-populated {margin: 0px 0px 0px 0px;}
 .elementor-6 .elementor-element.elementor-element-bf13361 {text-align: center;}
 .elementor-6 .elementor-element.elementor-element-bf13361 .elementor-heading-title {color: #fff;font-weight: 400;letter-spacing: 10px;}
-.elementor-6 .elementor-element.elementor-element-bf13361 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 12px 12px 12px 12px;}
+.elementor-6 .elementor-element.elementor-element-bf13361 > .elementor-widget-container {margin: 0px 0px 0px 0px;}
 .elementor-6 .elementor-element.elementor-element-90ab03c {margin-top: 0px;margin-bottom: 0px;padding: 0% 8% 0% 8%;}
 .elementor-6 .elementor-element.elementor-element-5272a8c .elementor-button {font-size: 40px;font-weight: 400;letter-spacing: 10px;background-color: rgba(2,1,1,0);padding: 200px 70px 0px 70px;}
 .elementor-6 .elementor-element.elementor-element-5272a8c > .elementor-widget-container {margin: -25px 0px 10px 0px;padding: 0px 0px 0px 0px;background-image: url("https://jackeyliutw.github.io/dive/wp-content/uploads/2021/02/1613641509433.png");background-position: center center;background-repeat: no-repeat;background-size: 100% auto;}
@@ -44,14 +44,17 @@
 .elementor-6 .elementor-element.elementor-element-3c247c9 > .elementor-widget-container {margin: -25px 0px 10px 0px;padding: 0px 0px 0px 0px;background-image: url("https://jackeyliutw.github.io/dive/wp-content/uploads/2021/02/1613650800181-1.png");background-position: center center;background-repeat: no-repeat;background-size: 90% auto;}
 .elementor-6 .elementor-element.elementor-element-0081df3 .elementor-button {font-size: 40px;font-weight: 400;letter-spacing: 10px;background-color: rgba(2,1,1,0);padding: 200px 70px 0px 70px;}
 .elementor-6 .elementor-element.elementor-element-0081df3 > .elementor-widget-container {margin: -25px 0px 50px 0px;padding: 0px 0px 0px 0px;background-image: url("https://jackeyliutw.github.io/dive/wp-content/uploads/2021/02/1613642241713-1.png");background-position: center center;background-repeat: no-repeat;background-size: 61% auto;}
-.elementor-6 .elementor-element.elementor-element-662cab8 {margin-top: 38px;margin-bottom: 0px;}
-.elementor-6 .elementor-element.elementor-element-13af8df > .elementor-element-populated {margin: 37px 37px 37px 37px;padding: 21px 21px 21px 21px;}
+.elementor-6 .elementor-element.elementor-element-662cab8 {margin-top: 38px;margin-bottom: 0px;padding: 0% 8.5% 0% 8.5%;}
+.elementor-6 .elementor-element.elementor-element-13af8df > .elementor-element-populated {margin: 37px 37px 37px 37px;padding: 20px 20px 20px 20px;}
 .elementor-6 .elementor-element.elementor-element-6409ea8 .elementor-button {background-color: rgba(213,33,33,.01);border-radius: 22px 22px 22px 22px;}
-.elementor-6 .elementor-element.elementor-element-6409ea8 > .elementor-widget-container {margin: 20px 0px 0px 0px;}
+.elementor-6 .elementor-element.elementor-element-6409ea8 > .elementor-widget-container {margin: -0px -0px -0px -0px;padding: 12px 12px 12px 12px;}
 .elementor-6 .elementor-element.elementor-element-8cd970d {color: #fff;}
 .elementor-6 .elementor-element.elementor-element-c6c8d5a {color: #fff;font-size: 1px;}
 .elementor-6 .elementor-element.elementor-element-c6c8d5a .elementor-text-editor {column-gap: 86px;}
-.elementor-6 .elementor-element.elementor-element-c6c8d5a > .elementor-widget-container {margin: -34px -54px -34px 215px;}
+.elementor-6 .elementor-element.elementor-element-c6c8d5a > .elementor-widget-container {margin: -34px -46px -34px 101px;}
+@media (max-width:1024px) {.elementor-6 .elementor-element.elementor-element-62ddf7d > .elementor-element-populated {margin: 0px 0px 0px 17px;}
+	.elementor-6 .elementor-element.elementor-element-15da460 > .elementor-element-populated {margin: 0px 0px 0px 9px;padding: 0px 0px 0px 0px;}}
+@media (max-width:767px) {.elementor-6 .elementor-element.elementor-element-c6c8d5a > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;}}
 @media (min-width:768px) {.elementor-6 .elementor-element.elementor-element-62ddf7d {width: 5.513%;}
 	.elementor-6 .elementor-element.elementor-element-15da460 {width: 37.858%;}
 	.elementor-6 .elementor-element.elementor-element-557a536 {width: 9.209%;}
@@ -65,6 +68,9 @@
 	.elementor-6 .elementor-element.elementor-element-1db6f07 {width: 25%;}
 	.elementor-6 .elementor-element.elementor-element-8b52776 {width: 12.5%;}
 	.elementor-6 .elementor-element.elementor-element-63cdaf9 {width: 25%;}}
+@media (max-width:1024px) and (min-width:768px) {.elementor-6 .elementor-element.elementor-element-62ddf7d {width: 7%;}
+	.elementor-6 .elementor-element.elementor-element-15da460 {width: 54%;}
+	.elementor-6 .elementor-element.elementor-element-557a536 {width: 9%;}}
 .elementor-6 .elementor-element.elementor-element-6a0b7c0 .elementor-button:hover {background: #08f;box-shadow: inset 7px 7px 14px #0074d9,inset -7px -7px 14px #009cff;}
 .elementor-6 .elementor-element.elementor-element-29a4003 .elementor-button:hover {background: #08f;box-shadow: inset 7px 7px 14px #0074d9,inset -7px -7px 14px #009cff;}
 .elementor-6 .elementor-element.elementor-element-04745b4 .elementor-button:hover {background: #08f;box-shadow: inset 7px 7px 14px #0074d9,inset -7px -7px 14px #009cff;}
